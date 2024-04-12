@@ -9,7 +9,7 @@ InfrastructureSystems = "2cd47ed4-ca9b-11e9-27f2-ab636a7671f1"
 JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
 MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
 PowerSystems = "bcd98974-b02a-5e2f-9ee0-a103f5c450dd"
-PowerSystemsInvestmentsPortfolios = "bed98974-b02a-5e2f-9fe0-a103f8c450dd"
+PowerSystemsInvestmentsPortfolios = "9212b679-331e-471f-8fa8-ff293e16dbc8"
 
 [compat]
 DocStringExtensions = "~0.8, ~0.9"
